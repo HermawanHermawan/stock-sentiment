@@ -1,0 +1,3 @@
+It used to take days for financial news to spread via radio, newspapers, and word of mouth. Now, in the age of the internet, it takes seconds. This project  will generate investing insight by applying sentiment analysis on financial news headlines from Finviz. Using this natural language processing technique, the researcher tries to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock.
+
+The datasets used in this project are raw HTML files for the Facebook (FB) and Tesla (TSLA) stocks from FINVIZ.com, a popular website dedicated to stock information and news.
